@@ -4,11 +4,11 @@
 #### This analysis is being conducted on behalf of the non-profit organization Alphabet Soup. This is to be used as a tool to find applicants with the best chance of being successful in their business ventures. By training this machine learning model with the metadata provided, we are better able to provide insight into which business types have been successful in order to predict what new business models might have similar performance. 
 
 ## Results
-- ### This is the target variable for this model:
-![Alt text](target_var.png)
+- ### The target variable for this model:
+![Alt text](target_var-1.png)
 
-- ### These are the feature variables for this model:
-![Alt text](feature_vars.png)
+- ### The feature variables for this model:
+![Alt text](features_var.png)
 
 - #### The columns removed from the original dataset include 'EIN', 'NAME', "SPECIAL_CONSIDERATIONS", "STATUS", and "ASK_AMT" as these columns did not provide any value to the machine learning process.
 
